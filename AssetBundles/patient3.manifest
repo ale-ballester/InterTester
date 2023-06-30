@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 524717330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33cf2c3fe58d12c9a05c2278e947973c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ffa5badb433a67c951e52328382c8114
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/FBX Models/Patient3.prefab
+Dependencies: []

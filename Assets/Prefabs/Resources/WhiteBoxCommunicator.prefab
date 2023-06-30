@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1410547837826366}
+  m_IsPrefabParent: 1
+--- !u!1 &1410547837826366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4204481289250624}
+  - component: {fileID: 114627750336889200}
+  - component: {fileID: 114214305823569806}
+  - component: {fileID: 114516223833901206}
+  m_Layer: 0
+  m_Name: WhiteBoxCommunicator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4204481289250624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410547837826366}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1255.3094, y: 6.267008, z: 130.76132}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114214305823569806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410547837826366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e68152fd8cf44d4aafccc76fb6c1675, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  com_Port: 
+  retryConnection: 0
+  connected: 0
+  whiteboxConnectionAlert: 0
+  incoming: 
+  tui_Button: 0
+  usProbePressureNotchSide: 0
+  usProbePressureFlatSide: 0
+  valvePressure: 0
+  syringeValvePresent: 0
+  redLight: 0
+  blueLight: 0
+  syringeValveOpen: 0
+--- !u!114 &114516223833901206
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410547837826366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268fc8c93716d214fb232d42d29815f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114627750336889200
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410547837826366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7ef4fcf0e142d0438180180fa38e6be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseObject: {fileID: 0}
+  enableBaseObject: 1
+  trackedObject1: {fileID: 0}
+  enableObject1: 1
+  trackedObject2: {fileID: 0}
+  enableObject2: 1
+  trackedObject3: {fileID: 0}
+  enableObject3: 1
+  trackedObject4: {fileID: 0}
+  enableObject4: 0
+  realtimeToggleBaseObject: 1
+  realtimeToggleTrackedObject1: 0
+  realtimeToggleTrackedObject2: 1
+  realtimeToggleTrackedObject3: 1
+  realtimeToggleTrackedObject4: 0
+  connected: 0
+  ConnectionStatus: 0
+  errorReport: 
+  Hemisphere: 4
+  transmitterRotation: {x: 0, y: 0, z: 0}
+  useModularStandPresetRotation: 1
+  usePresetsForSRT: 1
+  samplingFrequency: 200
+  applyCustomFilters: 0
+  ignoreLargeChanges: 0
+  ac_WideNotchFilter: 0
+  ac_NarrowNotchFilter: 0
+  dc_AdaptiveFilter: 0
+  Vm: 00000000000000000000000000000000000000000000000000000000
+  alphaMin: 0
+  alphaMax: 0
+  EditSensor: 0
+  offsetPosition: {x: 0, y: 0, z: 0}
+  offsetRotation: {x: 0, y: 0, z: 0}
+  utilities: {x: 0, y: 0, z: 0, w: 0}
+  memorySensorPlug1: 
+  memorySensorPlug2: 
+  memorySensorPlug3: 
+  memorySensorPlug4: 
+  memoryTransmitterPlug: 
+  memoryTrackingUnit: 
+  UploadTarget: 0
+  uploadText: 

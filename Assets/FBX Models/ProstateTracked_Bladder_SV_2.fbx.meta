@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 1650134256d6280458419156de939981
+timeCreated: 1535393549
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bladder
+    100002: Bladder_2
+    100004: Prostate Solid
+    100006: //RootNode
+    100008: Prostatic Urethra
+    100010: S. Vesicles
+    100012: S. Vesicles_2
+    100014: S. Vesicles_3
+    100016: Simple Prostate
+    100018: Urethra Simple
+    100020: Anterior Lesion 1
+    100022: Anterior Lesion L
+    100024: Anterior Lesion R
+    100026: Apex Lesion 1
+    100028: Apex Lesion L
+    100030: Apex Lesion R
+    100032: Lesions
+    100034: Object_1
+    100036: Object_10
+    100038: Object_11
+    100040: Object_12
+    100042: Object_13
+    100044: Object_14
+    100046: Object_15
+    100048: Object_16
+    100050: Object_17
+    100052: Object_3
+    100054: Object_4
+    100056: Object_5
+    100058: Object_6
+    100060: Object_7
+    100062: Object_8
+    100064: Object_9
+    100066: S. Vesicles All Sphere
+    100068: S. Vesicles Large Spheres
+    100070: Targets
+    100072: Anterior Zone
+    100074: Apex Zone
+    100076: Object_2
+    100078: S Vesicles Interior
+    100080: S Vesicles L Spheres
+    100082: S Vesicles S Spheres
+    100084: S. Vesicles Interior - Copy
+    100086: Zones
+    100088: Verification Spot
+    100090: Bladder_4
+    100092: Sextant Volume 1
+    100094: Sextant Volume 10
+    100096: Sextant Volume 11
+    100098: Sextant Volume 12
+    100100: Sextant Volume 2
+    100102: Sextant Volume 3
+    100104: Sextant Volume 4
+    100106: Sextant Volume 5
+    100108: Sextant Volume 6
+    100110: Sextant Volume 7
+    100112: Sextant Volume 8
+    100114: Sextant Volume 9
+    100116: Sextant Volumes
+    100118: Targets_2
+    400000: Bladder
+    400002: Bladder_2
+    400004: Prostate Solid
+    400006: //RootNode
+    400008: Prostatic Urethra
+    400010: S. Vesicles
+    400012: S. Vesicles_2
+    400014: S. Vesicles_3
+    400016: Simple Prostate
+    400018: Urethra Simple
+    400020: Anterior Lesion 1
+    400022: Anterior Lesion L
+    400024: Anterior Lesion R
+    400026: Apex Lesion 1
+    400028: Apex Lesion L
+    400030: Apex Lesion R
+    400032: Lesions
+    400034: Object_1
+    400036: Object_10
+    400038: Object_11
+    400040: Object_12
+    400042: Object_13
+    400044: Object_14
+    400046: Object_15
+    400048: Object_16
+    400050: Object_17
+    400052: Object_3
+    400054: Object_4
+    400056: Object_5
+    400058: Object_6
+    400060: Object_7
+    400062: Object_8
+    400064: Object_9
+    400066: S. Vesicles All Sphere
+    400068: S. Vesicles Large Spheres
+    400070: Targets
+    400072: Anterior Zone
+    400074: Apex Zone
+    400076: Object_2
+    400078: S Vesicles Interior
+    400080: S Vesicles L Spheres
+    400082: S Vesicles S Spheres
+    400084: S. Vesicles Interior - Copy
+    400086: Zones
+    400088: Verification Spot
+    400090: Bladder_4
+    400092: Sextant Volume 1
+    400094: Sextant Volume 10
+    400096: Sextant Volume 11
+    400098: Sextant Volume 12
+    400100: Sextant Volume 2
+    400102: Sextant Volume 3
+    400104: Sextant Volume 4
+    400106: Sextant Volume 5
+    400108: Sextant Volume 6
+    400110: Sextant Volume 7
+    400112: Sextant Volume 8
+    400114: Sextant Volume 9
+    400116: Sextant Volumes
+    400118: Targets_2
+    2100000: Material_1
+    2100002: Material_2
+    2100004: Targets
+    2100006: Targets_3
+    2100008: Targets_4
+    2100010: Targets_5
+    2100012: Targets_6
+    2100014: Targets_7
+    2100016: Targets_8
+    2100018: Targets_9
+    2100020: Targets_10
+    2100022: Targets_11
+    2100024: Targets_12
+    2100026: Targets_13
+    2100028: Lesion Material
+    2100030: Lesion Material_2
+    2100032: Lesion Material_3
+    2100034: Lesion Material_4
+    2100036: Bladder
+    2100038: Material_13
+    2100040: Urethra
+    2100042: Bladder_3
+    2100044: Transparent 1
+    2100046: Transparent 1_2
+    2100048: Transparent 1_3
+    2100050: Transparent 1_4
+    2100052: Transparent 1_5
+    2100054: Transparent 1_6
+    2100056: Transparent 1_7
+    2100058: Transparent 1_8
+    2100060: Transparent 1_9
+    2100062: Transparent 1_10
+    2100064: Transparent 1_11
+    2100066: Transparent 1_12
+    2100068: Transparent 1_13
+    2300000: Bladder
+    2300002: S. Vesicles
+    2300004: S. Vesicles_3
+    2300006: Simple Prostate
+    2300008: Urethra Simple
+    2300010: Anterior Lesion L
+    2300012: Anterior Lesion R
+    2300014: Apex Lesion L
+    2300016: Apex Lesion R
+    2300018: Object_1
+    2300020: Object_10
+    2300022: Object_11
+    2300024: Object_12
+    2300026: Object_13
+    2300028: Object_14
+    2300030: Object_15
+    2300032: Object_16
+    2300034: Object_17
+    2300036: Object_3
+    2300038: Object_4
+    2300040: Object_5
+    2300042: Object_6
+    2300044: Object_7
+    2300046: Object_8
+    2300048: Object_9
+    2300050: Anterior Zone
+    2300052: Apex Zone
+    2300054: Object_2
+    2300056: S Vesicles Interior
+    2300058: S Vesicles L Spheres
+    2300060: S Vesicles S Spheres
+    2300062: Bladder_2
+    2300064: Sextant Volume 1
+    2300066: Sextant Volume 10
+    2300068: Sextant Volume 11
+    2300070: Sextant Volume 12
+    2300072: Sextant Volume 2
+    2300074: Sextant Volume 3
+    2300076: Sextant Volume 4
+    2300078: Sextant Volume 5
+    2300080: Sextant Volume 6
+    2300082: Sextant Volume 7
+    2300084: Sextant Volume 8
+    2300086: Sextant Volume 9
+    3300000: Bladder
+    3300002: S. Vesicles
+    3300004: S. Vesicles_3
+    3300006: Simple Prostate
+    3300008: Urethra Simple
+    3300010: Anterior Lesion L
+    3300012: Anterior Lesion R
+    3300014: Apex Lesion L
+    3300016: Apex Lesion R
+    3300018: Object_1
+    3300020: Object_10
+    3300022: Object_11
+    3300024: Object_12
+    3300026: Object_13
+    3300028: Object_14
+    3300030: Object_15
+    3300032: Object_16
+    3300034: Object_17
+    3300036: Object_3
+    3300038: Object_4
+    3300040: Object_5
+    3300042: Object_6
+    3300044: Object_7
+    3300046: Object_8
+    3300048: Object_9
+    3300050: Anterior Zone
+    3300052: Apex Zone
+    3300054: Object_2
+    3300056: S Vesicles Interior
+    3300058: S Vesicles L Spheres
+    3300060: S Vesicles S Spheres
+    3300062: Bladder_2
+    3300064: Sextant Volume 1
+    3300066: Sextant Volume 10
+    3300068: Sextant Volume 11
+    3300070: Sextant Volume 12
+    3300072: Sextant Volume 2
+    3300074: Sextant Volume 3
+    3300076: Sextant Volume 4
+    3300078: Sextant Volume 5
+    3300080: Sextant Volume 6
+    3300082: Sextant Volume 7
+    3300084: Sextant Volume 8
+    3300086: Sextant Volume 9
+    4300000: S. Vesicles
+    4300002: S. Vesicles_3
+    4300004: Urethra Simple
+    4300006: Bladder
+    4300008: Simple Prostate
+    4300010: Object_1
+    4300012: Object_3
+    4300014: Object_4
+    4300016: Object_5
+    4300018: Object_6
+    4300020: Object_7
+    4300022: Object_8
+    4300024: Object_9
+    4300026: Object_10
+    4300028: Object_11
+    4300030: Object_12
+    4300032: Object_13
+    4300034: Object_14
+    4300036: Object_15
+    4300038: Object_16
+    4300040: Object_17
+    4300042: Apex Lesion L
+    4300044: Apex Lesion R
+    4300046: Anterior Lesion L
+    4300048: Anterior Lesion R
+    4300050: S Vesicles S Spheres
+    4300052: S Vesicles L Spheres
+    4300054: S Vesicles Interior
+    4300056: Apex Zone
+    4300058: Anterior Zone
+    4300060: Object_2
+    4300062: Bladder_2
+    4300064: Sextant Volume 7
+    4300066: Sextant Volume 8
+    4300068: Sextant Volume 1
+    4300070: Sextant Volume 2
+    4300072: Sextant Volume 9
+    4300074: Sextant Volume 10
+    4300076: Sextant Volume 4
+    4300078: Sextant Volume 3
+    4300080: Sextant Volume 11
+    4300082: Sextant Volume 12
+    4300084: Sextant Volume 6
+    4300086: Sextant Volume 5
+    6400000: Anterior Lesion L
+    6400002: Anterior Lesion R
+    6400004: Anterior Zone
+    6400006: Apex Lesion L
+    6400008: Apex Lesion R
+    6400010: Apex Zone
+    6400012: Bladder_2
+    6400014: Object_1
+    6400016: Object_10
+    6400018: Object_11
+    6400020: Object_12
+    6400022: Object_14
+    6400024: Object_15
+    6400026: Object_2
+    6400028: Object_3
+    6400030: Object_4
+    6400032: Object_5
+    6400034: Object_6
+    6400036: Object_7
+    6400038: Object_8
+    6400040: Object_9
+    6400042: S Vesicles Interior
+    6400044: S Vesicles L Spheres
+    6400046: S Vesicles S Spheres
+    6400048: Sextant Volume 1
+    6400050: Sextant Volume 10
+    6400052: Sextant Volume 11
+    6400054: Sextant Volume 12
+    6400056: Sextant Volume 2
+    6400058: Sextant Volume 3
+    6400060: Sextant Volume 4
+    6400062: Sextant Volume 5
+    6400064: Sextant Volume 6
+    6400066: Sextant Volume 7
+    6400068: Sextant Volume 8
+    6400070: Sextant Volume 9
+    6400072: Simple Prostate
+    6400074: Urethra Simple
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

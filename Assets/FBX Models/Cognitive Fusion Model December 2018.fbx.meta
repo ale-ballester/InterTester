@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 89af8bbff0e5e2047b7f8e84d7080346
+timeCreated: 1545083299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bladder_2
+    100002: //RootNode
+    100004: Lesion
+    100006: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------
+    100008: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_2
+    100010: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_3
+    100012: Prostate
+    100014: Prostatic Urethra - Copy
+    100016: S Vesicles Interior
+    100018: S Vesicles L Spheres
+    100020: S Vesicles S Spheres
+    100022: S. Vesicles All Sphere - Copy
+    100024: S. Vesicles Interior - Copy - Copy
+    100026: S. Vesicles Large Spheres - Copy
+    100028: Urethra Simple
+    100030: Cog Fusion Bladder
+    100032: Cog Fusion Lesion
+    100034: Cog Fusion Prostate
+    100036: Cog Fusion S Vesicles Interior
+    100038: Cog Fusion S Vesicles L Spheres
+    100040: Cog Fusion S Vesicles S Spheres
+    100042: Cog Fusion Urethra
+    100044: Bladder
+    100046: Cognitive Fusi3n Target 1
+    100048: Cognitive Fusion Sextant Volume 1
+    100050: Cognitive Fusion Sextant Volume 10
+    100052: Cognitive Fusion Sextant Volume 11
+    100054: Cognitive Fusion Sextant Volume 12
+    100056: Cognitive Fusion Sextant Volume 2
+    100058: Cognitive Fusion Sextant Volume 3
+    100060: Cognitive Fusion Sextant Volume 4
+    100062: Cognitive Fusion Sextant Volume 5
+    100064: Cognitive Fusion Sextant Volume 6
+    100066: Cognitive Fusion Sextant Volume 7
+    100068: Cognitive Fusion Sextant Volume 8
+    100070: Cognitive Fusion Sextant Volume 9
+    100072: Cognitive Fusion Target 1
+    100074: Cognitive Fusion Target 10
+    100076: Cognitive Fusion Target 11
+    100078: Cognitive Fusion Target 12
+    100080: Cognitive Fusion Target 2
+    100082: Cognitive Fusion Target 4
+    100084: Cognitive Fusion Target 5
+    100086: Cognitive Fusion Target 6
+    100088: Cognitive Fusion Target 7
+    100090: Cognitive Fusion Target 8
+    100092: Cognitive Fusion Target 9
+    100094: Sextant Volumes - Copy
+    100096: Targets_2
+    100098: Cog Fusion Urethra II
+    100100: Prostatic Urethra
+    400000: Bladder_2
+    400002: //RootNode
+    400004: Lesion
+    400006: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------
+    400008: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_2
+    400010: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_3
+    400012: Prostate
+    400014: Prostatic Urethra - Copy
+    400016: S Vesicles Interior
+    400018: S Vesicles L Spheres
+    400020: S Vesicles S Spheres
+    400022: S. Vesicles All Sphere - Copy
+    400024: S. Vesicles Interior - Copy - Copy
+    400026: S. Vesicles Large Spheres - Copy
+    400028: Urethra Simple
+    400030: Cog Fusion Bladder
+    400032: Cog Fusion Lesion
+    400034: Cog Fusion Prostate
+    400036: Cog Fusion S Vesicles Interior
+    400038: Cog Fusion S Vesicles L Spheres
+    400040: Cog Fusion S Vesicles S Spheres
+    400042: Cog Fusion Urethra
+    400044: Bladder
+    400046: Cognitive Fusi3n Target 1
+    400048: Cognitive Fusion Sextant Volume 1
+    400050: Cognitive Fusion Sextant Volume 10
+    400052: Cognitive Fusion Sextant Volume 11
+    400054: Cognitive Fusion Sextant Volume 12
+    400056: Cognitive Fusion Sextant Volume 2
+    400058: Cognitive Fusion Sextant Volume 3
+    400060: Cognitive Fusion Sextant Volume 4
+    400062: Cognitive Fusion Sextant Volume 5
+    400064: Cognitive Fusion Sextant Volume 6
+    400066: Cognitive Fusion Sextant Volume 7
+    400068: Cognitive Fusion Sextant Volume 8
+    400070: Cognitive Fusion Sextant Volume 9
+    400072: Cognitive Fusion Target 1
+    400074: Cognitive Fusion Target 10
+    400076: Cognitive Fusion Target 11
+    400078: Cognitive Fusion Target 12
+    400080: Cognitive Fusion Target 2
+    400082: Cognitive Fusion Target 4
+    400084: Cognitive Fusion Target 5
+    400086: Cognitive Fusion Target 6
+    400088: Cognitive Fusion Target 7
+    400090: Cognitive Fusion Target 8
+    400092: Cognitive Fusion Target 9
+    400094: Sextant Volumes - Copy
+    400096: Targets_2
+    400098: Cog Fusion Urethra II
+    400100: Prostatic Urethra
+    2100000: Material_1
+    2100002: Bladder
+    2100004: Urethra
+    2100006: Targets
+    2100008: Targets_3
+    2100010: Targets_4
+    2100012: Targets_5
+    2100014: Targets_6
+    2100016: Targets_7
+    2100018: Targets_8
+    2100020: Targets_9
+    2100022: Targets_10
+    2100024: Targets_11
+    2100026: Targets_12
+    2100028: Targets_13
+    2100030: Bladder_2
+    2300000: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------
+    2300002: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_2
+    2300004: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_3
+    2300006: S Vesicles Interior
+    2300008: S Vesicles L Spheres
+    2300010: S Vesicles S Spheres
+    2300012: Urethra Simple
+    2300014: Cog Fusion Bladder
+    2300016: Cog Fusion Lesion
+    2300018: Cog Fusion Prostate
+    2300020: Cog Fusion S Vesicles Interior
+    2300022: Cog Fusion S Vesicles L Spheres
+    2300024: Cog Fusion S Vesicles S Spheres
+    2300026: Cog Fusion Urethra
+    2300028: Cognitive Fusi3n Target 1
+    2300030: Cognitive Fusion Sextant Volume 1
+    2300032: Cognitive Fusion Sextant Volume 10
+    2300034: Cognitive Fusion Sextant Volume 11
+    2300036: Cognitive Fusion Sextant Volume 12
+    2300038: Cognitive Fusion Sextant Volume 2
+    2300040: Cognitive Fusion Sextant Volume 3
+    2300042: Cognitive Fusion Sextant Volume 4
+    2300044: Cognitive Fusion Sextant Volume 5
+    2300046: Cognitive Fusion Sextant Volume 6
+    2300048: Cognitive Fusion Sextant Volume 7
+    2300050: Cognitive Fusion Sextant Volume 8
+    2300052: Cognitive Fusion Sextant Volume 9
+    2300054: Cognitive Fusion Target 1
+    2300056: Cognitive Fusion Target 10
+    2300058: Cognitive Fusion Target 11
+    2300060: Cognitive Fusion Target 12
+    2300062: Cognitive Fusion Target 2
+    2300064: Cognitive Fusion Target 4
+    2300066: Cognitive Fusion Target 5
+    2300068: Cognitive Fusion Target 6
+    2300070: Cognitive Fusion Target 7
+    2300072: Cognitive Fusion Target 8
+    2300074: Cognitive Fusion Target 9
+    2300076: Cog Fusion Urethra II
+    3300000: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------
+    3300002: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_2
+    3300004: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_3
+    3300006: S Vesicles Interior
+    3300008: S Vesicles L Spheres
+    3300010: S Vesicles S Spheres
+    3300012: Urethra Simple
+    3300014: Cog Fusion Bladder
+    3300016: Cog Fusion Lesion
+    3300018: Cog Fusion Prostate
+    3300020: Cog Fusion S Vesicles Interior
+    3300022: Cog Fusion S Vesicles L Spheres
+    3300024: Cog Fusion S Vesicles S Spheres
+    3300026: Cog Fusion Urethra
+    3300028: Cognitive Fusi3n Target 1
+    3300030: Cognitive Fusion Sextant Volume 1
+    3300032: Cognitive Fusion Sextant Volume 10
+    3300034: Cognitive Fusion Sextant Volume 11
+    3300036: Cognitive Fusion Sextant Volume 12
+    3300038: Cognitive Fusion Sextant Volume 2
+    3300040: Cognitive Fusion Sextant Volume 3
+    3300042: Cognitive Fusion Sextant Volume 4
+    3300044: Cognitive Fusion Sextant Volume 5
+    3300046: Cognitive Fusion Sextant Volume 6
+    3300048: Cognitive Fusion Sextant Volume 7
+    3300050: Cognitive Fusion Sextant Volume 8
+    3300052: Cognitive Fusion Sextant Volume 9
+    3300054: Cognitive Fusion Target 1
+    3300056: Cognitive Fusion Target 10
+    3300058: Cognitive Fusion Target 11
+    3300060: Cognitive Fusion Target 12
+    3300062: Cognitive Fusion Target 2
+    3300064: Cognitive Fusion Target 4
+    3300066: Cognitive Fusion Target 5
+    3300068: Cognitive Fusion Target 6
+    3300070: Cognitive Fusion Target 7
+    3300072: Cognitive Fusion Target 8
+    3300074: Cognitive Fusion Target 9
+    3300076: Cog Fusion Urethra II
+    4300000: S Vesicles Interior
+    4300002: S Vesicles L Spheres
+    4300004: S Vesicles S Spheres
+    4300006: Urethra Simple
+    4300008: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------
+    4300010: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_2
+    4300012: MESHMIXER-STL-BINARY-FORMAT----------------------------------------------------_3
+    4300014: Cog Fusion S Vesicles Interior
+    4300016: Cog Fusion S Vesicles L Spheres
+    4300018: Cog Fusion S Vesicles S Spheres
+    4300020: Cog Fusion Urethra
+    4300022: Cog Fusion Bladder
+    4300024: Cog Fusion Prostate
+    4300026: Cog Fusion Lesion
+    4300028: Cognitive Fusi3n Target 1
+    4300030: Cognitive Fusion Target 1
+    4300032: Cognitive Fusion Target 5
+    4300034: Cognitive Fusion Target 11
+    4300036: Cognitive Fusion Target 7
+    4300038: Cognitive Fusion Target 9
+    4300040: Cognitive Fusion Target 2
+    4300042: Cognitive Fusion Target 8
+    4300044: Cognitive Fusion Target 12
+    4300046: Cognitive Fusion Target 4
+    4300048: Cognitive Fusion Target 10
+    4300050: Cognitive Fusion Target 6
+    4300052: Cognitive Fusion Sextant Volume 11
+    4300054: Cognitive Fusion Sextant Volume 12
+    4300056: Cognitive Fusion Sextant Volume 9
+    4300058: Cognitive Fusion Sextant Volume 10
+    4300060: Cognitive Fusion Sextant Volume 7
+    4300062: Cognitive Fusion Sextant Volume 8
+    4300064: Cognitive Fusion Sextant Volume 5
+    4300066: Cognitive Fusion Sextant Volume 6
+    4300068: Cognitive Fusion Sextant Volume 3
+    4300070: Cognitive Fusion Sextant Volume 4
+    4300072: Cognitive Fusion Sextant Volume 1
+    4300074: Cognitive Fusion Sextant Volume 2
+    4300076: Cog Fusion Urethra II
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

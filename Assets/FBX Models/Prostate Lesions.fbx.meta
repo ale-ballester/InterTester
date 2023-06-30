@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 5407e59e54a61914e8ce4a41208a070b
+timeCreated: 1537802670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apex Lesion 1
+    100002: Apex Lesion 1_2
+    100004: Posterior Lesion 1
+    100006: Posterior Lesion 1_2
+    100008: //RootNode
+    100010: Anterior Lesion 1
+    100012: Lesion Anterior Left 1
+    100014: Lesion Anterior Right 1
+    100016: Lesion Apex Left 1
+    100018: Lesion Apex Right 1
+    100020: Anterior Lesion L
+    100022: Anterior Lesion R
+    100024: Apex Lesion L
+    100026: Apex Lesion R
+    400000: Apex Lesion 1
+    400002: Apex Lesion 1_2
+    400004: Posterior Lesion 1
+    400006: Posterior Lesion 1_2
+    400008: //RootNode
+    400010: Anterior Lesion 1
+    400012: Lesion Anterior Left 1
+    400014: Lesion Anterior Right 1
+    400016: Lesion Apex Left 1
+    400018: Lesion Apex Right 1
+    400020: Anterior Lesion L
+    400022: Anterior Lesion R
+    400024: Apex Lesion L
+    400026: Apex Lesion R
+    2100000: Material_1
+    2300000: Apex Lesion 1
+    2300002: Posterior Lesion 1
+    2300004: Lesion Anterior Left 1
+    2300006: Lesion Anterior Right 1
+    2300008: Lesion Apex Left 1
+    2300010: Lesion Apex Right 1
+    2300012: Anterior Lesion L
+    2300014: Anterior Lesion R
+    2300016: Apex Lesion L
+    2300018: Apex Lesion R
+    3300000: Apex Lesion 1
+    3300002: Posterior Lesion 1
+    3300004: Lesion Anterior Left 1
+    3300006: Lesion Anterior Right 1
+    3300008: Lesion Apex Left 1
+    3300010: Lesion Apex Right 1
+    3300012: Anterior Lesion L
+    3300014: Anterior Lesion R
+    3300016: Apex Lesion L
+    3300018: Apex Lesion R
+    4300000: Posterior Lesion 1
+    4300002: Apex Lesion 1
+    4300004: Lesion Apex Left 1
+    4300006: Lesion Apex Right 1
+    4300008: Lesion Anterior Right 1
+    4300010: Lesion Anterior Left 1
+    4300012: Apex Lesion R
+    4300014: Apex Lesion L
+    4300016: Anterior Lesion R
+    4300018: Anterior Lesion L
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

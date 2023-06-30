@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 6a95276e1340ba64cafd9109bbb72596
+timeCreated: 1533070132
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cord Entry
+    100004: Cord Entry_2
+    100006: Crystal Tip
+    100008: Crystal Tip_2
+    100010: Handle
+    100012: Handle 1
+    100014: Handle 2
+    100016: Insonating Planes
+    100018: Needle Guide
+    100020: Needle Guide_2
+    100022: Needle Path
+    100024: Needle Path_2
+    100026: Needle Path_3
+    100028: Needle Path_4
+    100030: Needle Path_5
+    100032: Needle Path_6
+    100034: Needle Path_7
+    100036: Needle Path_8
+    100038: Needle Path_9
+    100040: Sag Endfire
+    100042: Sagittal Biplane
+    100044: Sagittal EndFire Only
+    100046: Shaft
+    100048: Shaft_2
+    100050: Simultaneous Sagittal
+    100052: Transverse
+    100054: Transverse Biplane
+    100056: Edges
+    100058: Edges_2
+    100060: Edges_3
+    100062: Edges_4
+    100064: Edges_5
+    100066: Edges_6
+    100068: Edges_7
+    100070: Edges_8
+    100072: Edges_9
+    100074: Crystal Tip_3
+    100076: Crystal Tip_4
+    100078: Object_1
+    100080: Object_10
+    100082: Object_11
+    100084: Object_12
+    100086: Object_13
+    100088: Object_3
+    100090: Object_4
+    100092: Object_5
+    100094: Object_6
+    100096: Object_7
+    100098: Object_8
+    100100: Object_9
+    100102: Offset 0
+    100104: Offset 0.5
+    100106: Offset 0.5_2
+    100108: Offset 0_2
+    100110: Offset 1
+    100112: Offset 1.5
+    100114: Offset 1.5_2
+    100116: Offset 1_2
+    100118: Offset 2
+    100120: Offset 2.5
+    100122: Offset 2.5_2
+    100124: Offset 2_2
+    100126: Offset 3
+    100128: Offset 3_2
+    100130: Rectal Wall - Sagittal
+    100132: Rectal Wall - Transverse
+    100134: Endfire Needle Guide UA1323
+    100136: Needle Guide_3
+    100138: Needle Path_10
+    100140: Needle Path_11
+    100142: Needle Path_12
+    100144: Needle Path_13
+    100146: Needle Path_14
+    100148: Needle Path_15
+    100150: Needle Path_16
+    100152: Needle Path_17
+    100154: Needle Path_18
+    100156: Sidefire Needle Guide UA1322
+    400000: //RootNode
+    400002: Cord Entry
+    400004: Cord Entry_2
+    400006: Crystal Tip
+    400008: Crystal Tip_2
+    400010: Handle
+    400012: Handle 1
+    400014: Handle 2
+    400016: Insonating Planes
+    400018: Needle Guide
+    400020: Needle Guide_2
+    400022: Needle Path
+    400024: Needle Path_2
+    400026: Needle Path_3
+    400028: Needle Path_4
+    400030: Needle Path_5
+    400032: Needle Path_6
+    400034: Needle Path_7
+    400036: Needle Path_8
+    400038: Needle Path_9
+    400040: Sag Endfire
+    400042: Sagittal Biplane
+    400044: Sagittal EndFire Only
+    400046: Shaft
+    400048: Shaft_2
+    400050: Simultaneous Sagittal
+    400052: Transverse
+    400054: Transverse Biplane
+    400056: Edges
+    400058: Edges_2
+    400060: Edges_3
+    400062: Edges_4
+    400064: Edges_5
+    400066: Edges_6
+    400068: Edges_7
+    400070: Edges_8
+    400072: Edges_9
+    400074: Crystal Tip_3
+    400076: Crystal Tip_4
+    400078: Object_1
+    400080: Object_10
+    400082: Object_11
+    400084: Object_12
+    400086: Object_13
+    400088: Object_3
+    400090: Object_4
+    400092: Object_5
+    400094: Object_6
+    400096: Object_7
+    400098: Object_8
+    400100: Object_9
+    400102: Offset 0
+    400104: Offset 0.5
+    400106: Offset 0.5_2
+    400108: Offset 0_2
+    400110: Offset 1
+    400112: Offset 1.5
+    400114: Offset 1.5_2
+    400116: Offset 1_2
+    400118: Offset 2
+    400120: Offset 2.5
+    400122: Offset 2.5_2
+    400124: Offset 2_2
+    400126: Offset 3
+    400128: Offset 3_2
+    400130: Rectal Wall - Sagittal
+    400132: Rectal Wall - Transverse
+    400134: Endfire Needle Guide UA1323
+    400136: Needle Guide_3
+    400138: Needle Path_10
+    400140: Needle Path_11
+    400142: Needle Path_12
+    400144: Needle Path_13
+    400146: Needle Path_14
+    400148: Needle Path_15
+    400150: Needle Path_16
+    400152: Needle Path_17
+    400154: Needle Path_18
+    400156: Sidefire Needle Guide UA1322
+    2100000: Material_1
+    2300000: Cord Entry
+    2300002: Crystal Tip
+    2300004: Handle 1
+    2300006: Handle 2
+    2300008: Needle Guide
+    2300010: Needle Path
+    2300012: Needle Path_3
+    2300014: Needle Path_4
+    2300016: Needle Path_5
+    2300018: Needle Path_6
+    2300020: Needle Path_7
+    2300022: Needle Path_8
+    2300024: Needle Path_9
+    2300026: Sag Endfire
+    2300028: Sagittal Biplane
+    2300030: Shaft
+    2300032: Transverse Biplane
+    2300034: Edges
+    2300036: Edges_3
+    2300038: Edges_4
+    2300040: Edges_6
+    2300042: Edges_7
+    2300044: Edges_9
+    2300046: Crystal Tip_2
+    2300048: Crystal Tip_3
+    2300050: Object_1
+    2300052: Object_10
+    2300054: Object_11
+    2300056: Object_12
+    2300058: Object_13
+    2300060: Object_3
+    2300062: Object_4
+    2300064: Object_5
+    2300066: Object_6
+    2300068: Object_7
+    2300070: Object_8
+    2300072: Object_9
+    2300074: Needle Guide_2
+    2300076: Needle Path_10
+    2300078: Needle Path_12
+    2300080: Needle Path_13
+    2300082: Needle Path_14
+    2300084: Needle Path_15
+    2300086: Needle Path_16
+    2300088: Needle Path_17
+    2300090: Needle Path_18
+    3300000: Cord Entry
+    3300002: Crystal Tip
+    3300004: Handle 1
+    3300006: Handle 2
+    3300008: Needle Guide
+    3300010: Needle Path
+    3300012: Needle Path_3
+    3300014: Needle Path_4
+    3300016: Needle Path_5
+    3300018: Needle Path_6
+    3300020: Needle Path_7
+    3300022: Needle Path_8
+    3300024: Needle Path_9
+    3300026: Sag Endfire
+    3300028: Sagittal Biplane
+    3300030: Shaft
+    3300032: Transverse Biplane
+    3300034: Edges
+    3300036: Edges_3
+    3300038: Edges_4
+    3300040: Edges_6
+    3300042: Edges_7
+    3300044: Edges_9
+    3300046: Crystal Tip_2
+    3300048: Crystal Tip_3
+    3300050: Object_1
+    3300052: Object_10
+    3300054: Object_11
+    3300056: Object_12
+    3300058: Object_13
+    3300060: Object_3
+    3300062: Object_4
+    3300064: Object_5
+    3300066: Object_6
+    3300068: Object_7
+    3300070: Object_8
+    3300072: Object_9
+    3300074: Needle Guide_2
+    3300076: Needle Path_10
+    3300078: Needle Path_12
+    3300080: Needle Path_13
+    3300082: Needle Path_14
+    3300084: Needle Path_15
+    3300086: Needle Path_16
+    3300088: Needle Path_17
+    3300090: Needle Path_18
+    4300000: Cord Entry
+    4300002: Transverse Biplane
+    4300004: Sagittal Biplane
+    4300006: Sag Endfire
+    4300008: Crystal Tip
+    4300010: Needle Guide
+    4300012: Needle Path
+    4300014: Needle Path_3
+    4300016: Needle Path_4
+    4300018: Needle Path_5
+    4300020: Needle Path_6
+    4300022: Needle Path_7
+    4300024: Needle Path_8
+    4300026: Needle Path_9
+    4300028: Shaft
+    4300030: Handle 1
+    4300032: Handle 2
+    4300034: Edges
+    4300036: Edges_3
+    4300038: Edges_4
+    4300040: Edges_6
+    4300042: Edges_7
+    4300044: Edges_9
+    4300046: Object_1
+    4300048: Object_3
+    4300050: Object_4
+    4300052: Object_5
+    4300054: Object_6
+    4300056: Object_7
+    4300058: Crystal Tip_2
+    4300060: Object_8
+    4300062: Object_9
+    4300064: Object_10
+    4300066: Object_11
+    4300068: Object_12
+    4300070: Object_13
+    4300072: Crystal Tip_3
+    4300074: Needle Path_10
+    4300076: Needle Path_12
+    4300078: Needle Path_13
+    4300080: Needle Path_14
+    4300082: Needle Path_15
+    4300084: Needle Path_16
+    4300086: Needle Path_17
+    4300088: Needle Path_18
+    4300090: Needle Guide_2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
